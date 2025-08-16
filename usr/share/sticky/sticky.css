@@ -1,58 +1,51 @@
-@define-color red1 #ff8990; /* main */
-@define-color red2 #ff5561; /* title */
-@define-color red3 #ff5561; /* slider */
-@define-color red4 #ff8990; /* slider hover */
-@define-color red5 #ffc5ca; /* slider trough */
-@define-color red5 #ac2029; /* selection */
-
-@define-color blue1 #81bdff; /* main */
-@define-color blue2 #3d9bff; /* title */
-@define-color blue3 #3d9bff; /* slider */
-@define-color blue4 #81bdff; /* slider hover */
-@define-color blue5 #bddbff; /* slider trough */
-@define-color blue5 #0f57a9; /* selection */
-
-@define-color green1 #afffaf; /* main */
-@define-color green2 #67ff67; /* title */
-@define-color green3 #67ff67; /* slider */
-@define-color green4 #afffaf; /* slider hover */
-@define-color green5 #d7ffd7; /* slider trough */
-@define-color green5 #076707; /* selection */
-
-@define-color yellow1 #feff9f; /* main */
-@define-color yellow2 #f6f907; /* title */
-@define-color yellow3 #f6f907; /* slider */
-@define-color yellow4 #feff9f; /* slider hover */
-@define-color yellow5 #feffdb; /* slider trough */
-@define-color yellow5 #59591c; /* selection */
-
-@define-color purple1 #c695ff; /* main */
-@define-color purple2 #a553ff; /* title */
-@define-color purple3 #a553ff; /* slider */
-@define-color purple4 #c695ff; /* slider hover */
-@define-color purple5 #dabdff; /* slider trough */
-@define-color purple5 #7722d3; /* selection */
-
-@define-color teal1 #affff8; /* main */
-@define-color teal2 #41ffed; /* title */
-@define-color teal3 #41ffed; /* slider */
-@define-color teal4 #affff8; /* slider hover */
-@define-color teal5 #cdfffb; /* slider trough */
-@define-color teal5 #07645c; /* selection */
-
-@define-color orange1 #ffc47b; /* main */
-@define-color orange2 #ffa939; /* title */
-@define-color orange3 #ffa939; /* slider */
-@define-color orange4 #ffc47b; /* slider hover */
-@define-color orange5 #ffe3b9; /* slider trough */
-@define-color orange5 #804d0a; /* selection */
-
-@define-color magenta1 #ffb9fb; /* main */
-@define-color magenta2 #ff7ff7; /* title */
-@define-color magenta3 #ff7ff7; /* slider */
-@define-color magenta4 #ffb9fb; /* slider hover */
-@define-color magenta5 #ffd7fd; /* slider trough */
-@define-color magenta5 #9d1094; /* selection */
+@define-color red1 #ffa8ad;             /* main */
+@define-color red2 #ff6974;             /* title */
+@define-color red3 #ff6974;             /* slider */
+@define-color red4 #ffa8ad;             /* slider hover */
+@define-color red5 #fff0f2;             /* slider trough */
+@define-color red5 #cc131f;             /* selection */
+@define-color blue1 #9ed0ff;            /* main */
+@define-color blue2 #4caaff;            /* title */
+@define-color blue3 #4caaff;            /* slider */
+@define-color blue4 #9ed0ff;            /* slider hover */
+@define-color blue5 #e7f3ff;            /* slider trough */
+@define-color blue5 #005eca;            /* selection */
+@define-color green1 #d6ffd6;           /* main */
+@define-color green2 #7fff7f;           /* title */
+@define-color green3 #7fff7f;           /* slider */
+@define-color green4 #d6ffd6;           /* slider hover */
+@define-color green5 #fffeff;           /* slider trough */
+@define-color green5 #007b00;           /* selection */
+@define-color yellow1 #ffffc2;          /* main */
+@define-color yellow2 #ffff0a;          /* title */
+@define-color yellow3 #ffff0a;          /* slider */
+@define-color yellow4 #ffffc2;          /* slider hover */
+@define-color yellow5 #fefdff;          /* slider trough */
+@define-color yellow5 #686818;          /* selection */
+@define-color purple1 #dbb6ff;          /* main */
+@define-color purple2 #b666ff;          /* title */
+@define-color purple3 #b666ff;          /* slider */
+@define-color purple4 #dbb6ff;          /* slider hover */
+@define-color purple5 #f2e7ff;          /* slider trough */
+@define-color purple5 #821eee;          /* selection */
+@define-color teal1 #d6fffe;            /* main */
+@define-color teal2 #51fffc;            /* title */
+@define-color teal3 #51fffc;            /* slider */
+@define-color teal4 #d6fffe;            /* slider hover */
+@define-color teal5 #faffff;            /* slider trough */
+@define-color teal5 #00786d;            /* selection */
+@define-color orange1 #ffd597;          /* main */
+@define-color orange2 #ffb847;          /* title */
+@define-color orange3 #ffb847;          /* slider */
+@define-color orange4 #ffd597;          /* slider hover */
+@define-color orange5 #fff5e2;          /* slider trough */
+@define-color orange5 #995600;          /* selection */
+@define-color magenta1 #ffe2ff;         /* main */
+@define-color magenta2 #ff9cff;         /* title */
+@define-color magenta3 #ff9cff;         /* slider */
+@define-color magenta4 #ffe2ff;         /* slider hover */
+@define-color magenta5 #fefffe;         /* slider trough */
+@define-color magenta5 #bc02b0;         /* selection */
 
 /* manager */
 #manager-group-edit-button,
